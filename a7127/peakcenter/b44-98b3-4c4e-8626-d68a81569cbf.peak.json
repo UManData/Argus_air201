@@ -1,0 +1,30 @@
+{
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9RRLV+h2BAz1VvtX6HYEDPWZm1fodgQM9dw7V+h2BAz2HutX6HYEDPZhi1fodgQM9qQrV+h2BAz25tOihm0EDPcpe1fodgQM92wjooZtBAz3rsOvzZ3kDPfxY6qIaiQM+DQTooZtBAz4drOihm0EDPi5U6qIaiQM+PwDooZtBAz5PqO5OJtkDPmBQ8CQNPQM+cPztSwCxAz6BpPDMs9EDPpJM8Myz0QM+ovjwoootAz6zoPD23XkDPsRI7fOnMQM+1PTw9t15Az7lnPEhByEDPvZE8E424QM/BvDxdVp1Az8XmO/zxzEDPyhA8Myz0QM/OOzvn3PpAz9JlO+fc+kDP1pA7vbNXQM/aujwzLPRAz97kPEhByEDP4w88CQNPQM/nOTweGCFAz+tjPCiii0DP7447UsAsQM/zuDvSyChAz/fiPDMs9EDP/A08E424QNAANzv88cxA0ARhPCiii0DQCIw8E424QNAMtjt86cxA0BDgOihm0EDQFQs6qIaiQNAZNTooZtBA0B1ftX6HYEDQIYq1fodgQNAltDooZtBA0CnetX6HYEDQLgm1fodgQNAyM7V+h2BA0DZetX6HYEDQOoi1fodgQNA+srV+h2BA0ELdtX6HYEDQRwe1fodg",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.493249458917832,
+        "center_signal": 3.6512073082845085,
+        "high_dac": 6.5020570741482935,
+        "high_resolving_power": 522.0066795491266,
+        "high_signal": 0.6930037694446853,
+        "low_dac": 6.484441843687372,
+        "low_resolving_power": 1135.7303438596068,
+        "low_signal": 0.7189578269553348,
+        "points": "QM9RRD0uSgxAz1VvPijZnEDPWZm+jwdtQM9dw70ArZ5Az2Huvlgo90DPZhi9xGSFQM9qQj3TcoZAz25tvkcrk0DPcpc+j23aQM92wj3uo7xAz3rsPiMF2EDPfxY/DDObQM+DQT9jDRZAz4drP1ILFUDPi5U/4s2YQM+PwEAMMFNAz5PqQCoPZ0DPmBRAMR6SQM+cP0BFa0hAz6BpQEuJoUDPpJNAS1MUQM+ovkBSepFAz6zoQGmPfEDPsRJAQ6dUQM+1PUA5Jz5Az7lnQEVrSEDPvZFANu6EQM/BvEA6N+1Az8XmQDg9hEDPyhBAZGngQM/OO0BBdkxAz9JlQE+OXEDP1pBAPhVrQM/aukBJOVxAz97kQFRGa0DP4w9AVTA/QM/nOUBICXFAz+tjQFEjokDP745AQuxRQM/zuEBRv4NAz/fiQEDSq0DP/A1AS3oLQNAAN0AW5QZA0ARhQBm5NUDQCIxAFWd7QNAMtj+QFWVA0BDgPzDCg0DQFQs+IwXYQNAZNT3vnFpA0B1fvkLNJUDQIYo86AyQQNAltL4oGjZA0CnePssrKUDQLgk8vVJwQNAyM72clVNA0DZevvP6s0DQOoi+zpxRQNA+sj0a3hpA0ELdvd6bsEDQRwe+nZcj",
+        "resolution": 346.1630854700986
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
