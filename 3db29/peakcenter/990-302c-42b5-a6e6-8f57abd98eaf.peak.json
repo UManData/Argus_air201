@@ -1,0 +1,30 @@
+{
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9QxrV+h2BAz1TxtX6HYEDPWRu1fodgQM9dRbV+h2BAz2FwtX6HYEDPZZq1fodgQM9pxLV+h2BAz23vtX6HYEDPchm1fodgQM92QzooZtBAz3putX6HYEDPfpg6KGbQQM+CwjooZtBAz4btOqiGokDPixc6/NneQM+PQjsolo1Az5NsO3zpzEDPl5Y7UsAsQM+bwTv88cxAz5/rO6ieh0DPpBU70sgoQM+oQDweGCFAz6xqO72zV0DPsJQ8KKKLQM+0vzu9s1dAz7jpPD23XkDPvRM8Myz0QM/BPjweGCFAz8VoO/zxzEDPyZI8HhghQM/NvTwzLPRAz9HnPFLMMkDP1hE7/PHMQM/aPDwzLPRAz95mPDMs9EDP4pA759z6QM/muzwzLPRAz+rlPCiii0DP7xA8XVadQM/zOjxIQchAz/dkPAkDT0DP+488HhghQM//uTvn3PpA0APjO/zxzEDQCA4759z6QNAMODu9s1dA0BBiOihm0EDQFI21fodgQNAYtzr82d5A0BzhtX6HYEDQIQw6KGbQQNAlNrV+h2BA0ClgtX6HYEDQLYu1fodgQNAxtbV+h2BA0DXftX6HYEDQOgq1fodgQNA+NLV+h2BA0EJftX6HYEDQRom1fodg",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.493730420841677,
+        "center_signal": 3.4172778107105874,
+        "high_dac": 6.502237434869733,
+        "high_resolving_power": 537.6088689883951,
+        "high_signal": 0.6527847989473657,
+        "low_dac": 6.485223406813621,
+        "low_resolving_power": 1027.5845968253197,
+        "low_signal": 0.6828601253557641,
+        "points": "QM9Qxr7P0uxAz1TxvjJL70DPWRs+Wt5JQM9dRT1HiZ1Az2FwPo6zXEDPZZq/J9huQM9pxD3ABklAz23vPoCd40DPchk+RfyRQM92Q7yoBc1Az3puPl7A2UDPfpg+4nvFQM+Cwj77f+NAz4btPy5ztkDPixc/g/4/QM+PQj/tI6NAz5NsQCIHOEDPl5ZAHa2PQM+bwUAwczFAz5/rQCo2WUDPpBVATuqxQM+oQEBKKvFAz6xqQEoTkEDPsJRAWi6RQM+0v0A+FWtAz7jpQFBwYEDPvRNASQqaQM/BPkBBVyFAz8VoQEXYYEDPyZJAQmAPQM/NvUA9StdAz9HnQEaykEDP1hFAQQFrQM/aPEA15aJAz95mQDWP8EDP4pBAK8tjQM/mu0BICXFAz+rlQEsz6EDP7xBARATVQM/zOkBG4VJAz/dkQDJGl0DP+49AKUyuQM//uUBDQgdA0APjQBKi60DQCA4/8o0BQNAMOD/DzL9A0BBiP4XBSEDQFI0+doyjQNAYt7vN/utA0BzhvkwGREDQIQy+oL7LQNAlNr4ktExA0ClgvcF61UDQLYs+QhoHQNAxtT5fPStA0DXfvQSP8EDQOgq9TlvJQNA+NL6UXkNA0EJfPiMF2EDQRok9qqjh",
+        "resolution": 341.77810970464566
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
