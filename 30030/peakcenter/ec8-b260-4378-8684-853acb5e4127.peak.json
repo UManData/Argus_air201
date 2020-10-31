@@ -1,0 +1,30 @@
+{
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9RRLV+h2BAz1VutX6HYEDPWZm1fodgQM9dw7V+h2BAz2HutX6HYEDPZhi1fodgQM9qQjooZtBAz25tOihm0EDPcpc6KGbQQM92wTooZtBAz3rstX6HYEDPfxY6qIaiQM+DQDooZtBAz4drOqiGokDPi5U6qIaiQM+PvzuTibZAz5PqO5OJtkDPmBQ7k4m2QM+cPjwoootAz6BpO/zxzEDPpJM7/PHMQM+ovTxSzDJAz6zoPAkDT0DPsRI70sgoQM+1PDv88cxAz7lnO+fc+kDPvZE8HhghQM/BvDwJA09Az8XmO+fc+kDPyhA8E424QM/OOzwzLPRAz9JlO/zxzEDP1o88SEHIQM/aujwJA09Az97kO/zxzEDP4w48PbdeQM/nOTvSyChAz+tjPB4YIUDP7408E424QM/zuDwTjbhAz/fiPF1WnUDP/Aw7fOnMQNAANzuTibZA0ARhO6ieh0DQCIs7/PHMQNAMtjuTibZA0BDgO6ieh0DQFQs6/NneQNAZNbV+h2BA0B1fOihm0EDQIYq1fodgQNAltLV+h2BA0CnetX6HYEDQLgm1fodgQNAyM7V+h2BA0DZdtX6HYEDQOoi1fodgQNA+srV+h2BA0ELctX6HYEDQRwe1fodg",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.493790420841682,
+        "center_signal": 3.550702985039968,
+        "high_dac": 6.502237314629257,
+        "high_resolving_power": 529.6856895425111,
+        "high_signal": 0.6099090241004649,
+        "low_dac": 6.485343527054107,
+        "low_resolving_power": 1147.8391560285293,
+        "low_signal": 0.6794537736521971,
+        "points": "QM9RRL5WN+VAz1VuvVI+FUDPWZm9DFSRQM9dwz1yRAxAz2HuvnXFKkDPZhi+TnObQM9qQr6GiOBAz25tPQljX0DPcpe/BA8pQM92wT6dg25Az3rsPhVtFkDPfxY+8z3fQM+DQD+IAL9Az4drPyozaEDPi5U/nZKfQM+Pvz/h1JBAz5PqQC2PLEDPmBRAGImDQM+cPkBFodRAz6BpQEitF0DPpJNAYX11QM+ovUBHJ3RAz6zoQGKOUUDPsRJATfFNQM+1PEBBdkxAz7lnQEiN60DPvZFAS99bQM/BvEA97nZAz8XmQEbhUkDPyhBATyE/QM/OO0BFTBxAz9JlQEDSq0DP1o9APAOaQM/aukA8MlpAz97kQFQIEEDP4w5ARtG8QM/nOUBAq7ZAz+tjQD2BYUDP741AQ760QM/zuEAzvIRAz/fiQFTSt0DP/AxAT9xLQNAAN0Apc6BA0ARhQCn4CUDQCItACf/IQNAMtj/GmIpA0BDgP3b53EDQFQu5AJ2qQNAZNb1hx0VA0B1fO5dZIUDQIYq+PPnnQNAltD5TlX1A0CnePIbxRkDQLgk+Mww4QNAyM744m3dA0DZdvZ2N5EDQOoi+U8qPQNA+sr54rr5A0ELcvepCZ0DQRwe9l7p7",
+        "resolution": 350.66195021647246
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
