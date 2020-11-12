@@ -1,0 +1,30 @@
+{
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9Oy7V+h2BAz1L2tX6HYEDPVyC1fodgQM9bSrV+h2BAz191tX6HYEDPY5+1fodgQM9nybV+h2BAz2v0tX6HYEDPcB61fodgQM90SDqohqJAz3hztX6HYEDPfJ21fodgQM+AyDqohqJAz4TyOvzZ3kDPiRw6/NneQM+NRzooZtBAz5FxOihm0EDPlZs7KJaNQM+Zxjvn3PpAz53wO9LIKEDPoho7/PHMQM+mRTvn3PpAz6pvO5OJtkDPrpk7qJ6HQM+yxDt86cxAz7buO3zpzEDPuxg759z6QM+/Qzu9s1dAz8NtO9LIKEDPx5c8CQNPQM/LwjwzLPRAz8/sO6ieh0DP1BY7vbNXQM/YQTweGCFAz9xrO6ieh0DP4JY70sgoQM/kwDvSyChAz+jqO+fc+kDP7RU7/PHMQM/xPzuTibZAz/VpO3zpzEDP+ZQ7KJaNQM/9vjv88cxA0AHoO1LALEDQBhM7KJaNQNAKPTuonodA0A5ntX6HYEDQEpI6KGbQQNAWvLV+h2BA0BrmOihm0EDQHxG1fodgQNAjO7V+h2BA0CdltX6HYEDQK5C1fodgQNAvurV+h2BA0DPktX6HYEDQOA+1fodgQNA8ObV+h2BA0EBktX6HYEDQRI61fodg",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.4935487975951975,
+        "center_signal": 2.560698901999214,
+        "high_dac": 6.5021159318637345,
+        "high_resolving_power": 571.7532363315995,
+        "high_signal": 0.4507602159372177,
+        "low_dac": 6.484981663326661,
+        "low_resolving_power": 930.0850143678239,
+        "low_signal": 0.4661983608643703,
+        "points": "QM9Oy73WoMxAz1L2Phd4mEDPVyC+BBKKQM9bSjnt5m9Az191vtZSAUDPY5+9k6ILQM9nyb2ZdW9Az2v0PoTLk0DPcB480ZQJQM90SD4SnX5Az3hzPgvRKkDPfJ0+mqZIQM+AyD5+a7VAz4TyPuw/UEDPiRw/s2ZdQM+NRz+tr+lAz5FxQADxLEDPlZs/7owgQM+ZxkAbZpxAz53wQBVJdkDPohpAC7y1QM+mRUALMJNAz6pvQAvra0DPrplAIz/TQM+yxEAcCiRAz7buQBjI7UDPuxg/+vOnQM+/Q0AN9QtAz8NtQAEQT0DPx5dADY/UQM/LwkAMnntAz8/sQCKE6UDP1BZABmKPQM/YQUAjKHZAz9xrP/RyBUDP4JZAGILYQM/kwEAb06FAz+jqQA7190DP7RVAFUGtQM/xP0ACrN1Az/VpQAXOp0DP+ZRABDITQM/9vkAGQ2tA0AHoQAFGzEDQBhM/hXZhQNAKPT8ye+VA0A5nP1hDEEDQEpI+TGbFQNAWvL7IPwFA0BrmvacNVUDQHxG9Ddn1QNAjO75FHvdA0CdlPif7LkDQK5C+iOhGQNAvuj2VgJxA0DPkvjpxDkDQOA++Bn/rQNA8Ob3t7iVA0EBkvdHGAkDQRI6907cf",
+        "resolution": 333.31438786008664
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
