@@ -1,0 +1,30 @@
+{
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9ZdLV+h2BAz12etX6HYEDPYci1fodgQM9l87V+h2BAz2odtX6HYEDPbke1fodgQM9ycrV+h2BAz3actX6HYEDPesa1fodgQM9+8bV+h2BAz4MbtX6HYEDPh0W1fodgQM+LcLV+h2BAz4+atX6HYEDPk8W1fodgQM+X77V+h2BAz5wZOqiGokDPoEQ6KGbQQM+kbjqohqJAz6iYOqiGokDPrMM6/NneQM+w7TqohqJAz7UXO3zpzEDPuUI7k4m2QM+9bDr82d5Az8GWO1LALEDPxcE7fOnMQM/J6zr82d5Az84VOqiGokDP0kA6KGbQQM/Wajt86cxAz9qUOyiWjUDP3r87UsAsQM/i6Tr82d5Az+cTOqiGokDP6z46qIaiQM/vaDvSyChAz/OTOihm0EDP9707KJaNQM/75zsolo1A0AASO3zpzEDQBDw7UsAsQNAIZjt86cxA0AyROqiGokDQELs7KJaNQNAU5TooZtBA0BkQOihm0EDQHTq1fodgQNAhZLV+h2BA0CWPtX6HYEDQKbk6KGbQQNAt47V+h2BA0DIOtX6HYEDQNji1fodgQNA6YrV+h2BA0D6NtX6HYEDQQre1fodgQNBG4rV+h2BA0EsMtX6HYEDQTza1fodg",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.494909879759522,
+        "center_signal": 1.3819452590284265,
+        "high_dac": 6.503597254509021,
+        "high_resolving_power": 517.1291913875629,
+        "high_signal": 0.2742310160857238,
+        "low_dac": 6.486222505010024,
+        "low_resolving_power": 1254.9709418604489,
+        "low_signal": 0.2501949494865735,
+        "points": "QM9ZdLzlE4BAz12evi5Gt0DPYci+YEZsQM9l8z3IEN1Az2odvsi3yEDPbkc+Xer2QM9ycr47YglAz3acvsXOUEDPesa9Tc/4QM9+8T6WS9BAz4MbvUIpE0DPh0U9ieoCQM+LcL5APL1Az4+aPph7TEDPk8U+v9JzQM+X7z8X5PtAz5wZPuU4+0DPoEQ/YKeiQM+kbj8toqdAz6iYP2NT2kDPrMM/b9dVQM+w7T+Yi8NAz7UXP2JbC0DPuUI/sVbqQM+9bD9ObrJAz8GWP4vY4UDPxcE/mUZtQM/J6z9e9DlAz84VP1530kDP0kA/ZQdEQM/Waj9lRXhAz9qUP3ZHyUDP3r8/aG4bQM/i6T9sEylAz+cTP3CR8kDP6z4/i2wBQM/vaD+KkkFAz/OTP4DKO0DP970/RHisQM/75z8cBhxA0AASP5xfwkDQBDw/P9r9QNAIZj9xisVA0AyRP5FgS0DQELs/OakTQNAU5T7dsZVA0BkQPuNHlUDQHTo+k2HWQNAhZD1GI/BA0CWPvoVAq0DQKbm/Ib7rQNAt4z0hPTtA0DIOPKcbbUDQNji+lEyyQNA6Yj2o/WBA0D6NvNWKOUDQQrc+tlnYQNBG4j4LXV5A0EsMPcM1z0DQTzY9oTiF",
+        "resolution": 360.11500333333976
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
