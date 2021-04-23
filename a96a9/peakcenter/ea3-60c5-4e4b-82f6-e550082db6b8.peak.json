@@ -1,0 +1,30 @@
+{
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9TOLV+V2VAz1diOihm3EDPW4y1fldlQM9ft7V+V2VAz2PhOihm3EDPaAw7qJ6IQM9sNjwoooxAz3BgPNgThkDPdIs88m2ZQM94tT0rSGBAz3zfPW/MTkDPgQo9l4WNQM+FND2t69FAz4lePe58IEDPjYk+HMuVQM+Rsz55CEVAz5XdPpTkyEDPmgg+vBikQM+eMj8MqkRAz6JcPyqlgkDPpoc/LHVoQM+qsT8+6M5Az67bP0pw/UDPswY/QQ0QQM+3MD89wZZAz7taP0RYi0DPv4U/Pr6hQM/Drz9CiKFAz8faP0KIoUDPzAQ/PmpIQM/QLj9ELl5Az9RZPztzKEDP2IM/Q1t/QM/crT89l2pAz+DYPz+RgEDP5QI/MwxSQM/pLD87nVVAz+1XPzdU0kDP8YE/LZydQM/1qz8gbtRAz/nWPxja7kDP/gA/Dk/5QNACKj8a1P1A0AZVPvUXFEDQCn8+vGz6QNAOqT6fb3lA0BLUPltiZUDQFv49wwDMQNAbKTz8+AdA0B9TPIPAJEDQI307k4m4QNAnqDr82eRA0CvStX5XZUDQL/w6KGbcQNA0J7V+V2VA0DhROihm3EDQPHu1fldlQNBAprV+V2VA0ETQtX5XZUDQSPq1fldl",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.493728076152305,
+        "center_signal": 233.42438003509469,
+        "high_dac": 6.502595811623246,
+        "high_resolving_power": 1523.0752629107517,
+        "high_signal": 43.99655020736553,
+        "low_dac": 6.4848603406813625,
+        "low_resolving_power": 1610.1693084574877,
+        "low_signal": 46.17041017998425,
+        "points": "QM9TOD8kpT5Az1diPolo30DPW4y6/dbrQM9ftz5piXhAz2PhvTa6RkDPaAw+jFLiQM9sNj9nVuJAz3BgQBcfZEDPdItAlws+QM94tUEJfvFAz3zfQWRuzEDPgQpB/WW3QM+FNEJVRtNAz4leQqt0q0DPjYlC+hLFQM+Rs0MgwqtAz5XdQz44IkDPmghDUi5HQM+eMkNh5ClAz6JcQ2bVcUDPpodDaKCIQM+qsUNoxTRAz67bQ2lii0DPswZDaT1xQM+3MENpN3ZAz7taQ2lliEDPv4VDaQavQM/Dr0NpQptAz8faQ2k+h0DPzARDaUaMQM/QLkNpZp5Az9RZQ2j7IkDP2INDaLuyQM/crUNowuVAz+DYQ2jX80DP5QJDaIATQM/pLENofrdAz+1XQ2ezOkDP8YFDZpgGQM/1q0NhgHtAz/nWQ1wrlEDP/gBDUv5AQNACKkNEj9pA0AZVQy+PGkDQCn9DFIi/QNAOqULeLHdA0BLUQo8hWkDQFv5B3wLmQNAbKUFSGRRA0B9TQL7lb0DQI31ATaBWQNAnqD/Bg15A0CvSPoLaXEDQL/w+b9nEQNA0Jz4tUP5A0DhRPn1zDkDQPHu9QHAxQNBApj4BH91A0ETQvw3+vkDQSPq9LQRZ",
+        "resolution": 331.32160633946836
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
