@@ -1,0 +1,30 @@
+{
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9OebV+V2VAz1KjtX5XZUDPVs61fldlQM9a+LV+V2VAz18itX5XZUDPY021fldlQM9nd7V+V2VAz2uhtX5XZUDPb8y1fldlQM9z9rV+V2VAz3ggtX5XZUDPfEs6KGbcQM+AdTooZtxAz4SgOqiGqEDPiMo6KGbcQM+M9DsolpBAz5EfOyiWkEDPlUk7fOnPQM+ZczuTibhAz52eOvzZ5EDPocg7qJ6IQM+l8ju9s1lAz6odOyiWkEDPrkc7fOnPQM+ycTvSyCpAz7acO72zWUDPusY7qJ6IQM++8DvSyCpAz8MbO5OJuEDPx0U7k4m4QM/Lbzt86c9Az8+aO5OJuEDP08Q7fOnPQM/X7juTibhAz9wZO3zpz0DP4EM7KJaQQM/kbjt86c9Az+iYO1LAL0DP7MI7KJaQQM/w7Tr82eRAz/UXO9LIKkDP+UE7vbNZQM/9bDqohqhA0AGWOvzZ5EDQBcA7KJaQQNAJ6zqohqhA0A4VOihm3EDQEj86qIaoQNAWarV+V2VA0BqUOihm3EDQHr61fldlQNAi6bV+V2VA0CcTtX5XZUDQKz21fldlQNAvaLV+V2VA0DOStX5XZUDQN7y1fldlQNA757V+V2VA0EARtX5XZUDQRDy1fldl",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.492968448082603,
+        "center_signal": 1.9899534183010983,
+        "high_dac": 6.501715943072583,
+        "high_resolving_power": 562.9333777071676,
+        "high_signal": 0.35880175022939054,
+        "low_dac": 6.484220953092623,
+        "low_resolving_power": 836.5403761223155,
+        "low_signal": 0.39371287967723423,
+        "points": "QM9OeT2t+b9Az1KjPgryq0DPVs6+YLetQM9a+LvHwjlAz18iP1s33kDPY02+u9cgQM9nd73VfllAz2uhPvriukDPb8y+RI+kQM9z9j3FSMlAz3ggvhzAo0DPfEs9yiPuQM+AdT8M3gRAz4SgPxiG+0DPiMo/Hf46QM+M9D+Nzw9Az5EfP40E2EDPlUk/qo1rQM+Zcz+szRdAz52eP7e9y0DPocg/waYyQM+l8j+2lidAz6odP9ykKkDPrkc/3BgVQM+ycT/hM4hAz7acP8sh20DPusY/5ZQ/QM++8D/7aNFAz8MbP8vNC0DPx0U/+C+0QM/Lbz+dAAxAz8+aP5mY4EDP08Q/pYIWQM/X7j/W7R9Az9wZP9mpgUDP4EM/9YK4QM/kbj+lFS5Az+iYP6TmgkDP7MI/c0ZlQM/w7T/cNzZAz/UXP7qosEDP+UE/jZDXQM/9bD/YUxhA0AGWP7F7I0DQBcA/gw3vQNAJ6z9CrYVA0A4VPrai3kDQEj8+GnznQNAWaj4899ZA0BqUPrlOx0DQHr49pTwfQNAi6T38pMlA0CcTPoaNJEDQKz29hd6LQNAvaL3fNCBA0DOSPbHcP0DQN7y+LUI5QNA757xgLiBA0EARPZx+gkDQRDy9eFFR",
+        "resolution": 327.3157833932616
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
