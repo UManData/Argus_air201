@@ -1,0 +1,30 @@
+{
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9Lb7V+V2VAz0+ZtX5XZUDPU8O1fldlQM9X7rV+V2VAz1wYOihm3EDPYEK1fldlQM9kbbV+V2VAz2iXO+fc+0DPbME8XVadQM9w7DxdVp1Az3UWPQZj10DPeUA9MzA1QM99az1K57ZAz4GVPY+dskDPhcA9nMrKQM+J6j4GZTBAz44UPh9uOEDPkj8+N86mQM+WaT5CWTpAz5qTPo/zx0DPnr4+yuvJQM+i6D7oPdpAz6cSPwzUcEDPqz0/IUGwQM+vZz8oVxhAz7ORPzE8a0DPt7w/IJkAQM+75j8bp9lAz8AQPy8YK0DPxDs/KfzRQM/IZT8cUIlAz8yPPyv240DP0Lo/G6fZQM/U5D8i52lAz9kOPyYy2kDP3Tk/IESoQM/hYz8o1ZxAz+WOPx50xEDP6bg/FuDfQM/t4j8YXGpAz/INPw19H0DP9jc/Em5AQM/6YT8C8jVAz/6MPv38QEDQArY++GJ5QNAG4D7hUr9A0AsLPrfQRkDQDzU+oMDQQNATXz49vJlA0BeKPfpX9UDQG7Q9n21oQNAf3j1QLPBA0CQJPFLMM0DQKDM7UsAvQNAsXTr82eRA0DCIOyiWkEDQNLI6qIaoQNA43LV+V2VA0D0HtX5XZUDQQTG1fldl",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.493980067592828,
+        "center_signal": 200.12658089829287,
+        "high_dac": 6.502847803063769,
+        "high_resolving_power": 1368.9055079024108,
+        "high_signal": 39.73821804878562,
+        "low_dac": 6.4851123321218855,
+        "low_resolving_power": 1401.0718847311134,
+        "low_signal": 36.95881265308271,
+        "points": "QM9Lbz6aPKVAz0+Zvc6d5kDPU8M9wXg+QM9X7r4ShDdAz1wYvayhxEDPYEK8vXlMQM9kbTycO35Az2iXvLW0jkDPbME/WgHpQM9w7EAUixRAz3UWQLCzN0DPeUBBE1NkQM99a0Fk2l1Az4GVQbWBv0DPhcBCDSoCQM+J6kKFy8JAz44UQsScskDPkj9DA70LQM+WaUMfbGBAz5qTQzEtzUDPnr5DPH1jQM+i6ENCOz9Az6cSQ0YSZ0DPqz1DR80IQM+vZ0NHaolAz7ORQ0fpo0DPt7xDR+z7QM+75kNIH8hAz8AQQ0fKoEDPxDtDR996QM/IZUNHiQBAz8yPQ0eju0DP0LpDSASkQM/U5ENHTyVAz9kOQ0a78kDP3TlDR7sfQM/hY0NHrvVAz+WOQ0dl/kDP6bhDR+78QM/t4kNGSWVAz/INQ0Rjq0DP9jdDQT4zQM/6YUM9iL9Az/6MQziA50DQArZDKjTwQNAG4EMYqdRA0AsLQv2nekDQDzVCvAyHQNATX0J+xNNA0BeKQhq8DEDQG7RBsxM2QNAf3kE4TUdA0CQJQEUjUEDQKDM/4no4QNAsXT7HpqRA0DCIPqr+VUDQNLI+pG++QNA43DyrxSVA0D0HPZqfd0DQQTE+JqmB",
+        "resolution": 318.6239974168012
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
