@@ -1,0 +1,30 @@
+{
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9TzrV+V2VAz1f4tX5XZUDPXCO1fldlQM9gTbV+V2VAz2R3tX5XZUDPaKK1fldlQM9szLV+V2VAz3D2tX5XZUDPdSE6KGbcQM95SzqohqhAz311OqiGqEDPgaA6/NnkQM+FyrV+V2VAz4n1OvzZ5EDPjh86KGbcQM+SSTooZtxAz5Z0OqiGqEDPmp46/NnkQM+eyDqohqhAz6LzO1LAL0DPpx07k4m4QM+rRzt86c9Az69yOvzZ5EDPs5w7k4m4QM+3xju9s1lAz7vxO1LAL0DPwBs8CQNQQM/ERTu9s1lAz8hwO6ieiEDPzJo7KJaQQM/QxDt86c9Az9TvO6ieiEDP2Rk70sgqQM/dRDuonohAz+FuOqiGqEDP5Zg7vbNZQM/pwzuonohAz+3tO9LIKkDP8hc70sgqQM/2QjuTibhAz/psOyiWkEDP/pY7k4m4QNACwTtSwC9A0AbrOvzZ5EDQCxU6qIaoQNAPQDt86c9A0BNqOqiGqEDQF5S1fldlQNAbvzsolpBA0B/pOqiGqEDQJBO1fldlQNAoPrV+V2VA0CxotX5XZUDQMJK1fldlQNA0vbV+V2VA0DjntX5XZUDQPRK1fldlQNBBPLV+V2VA0EVmtX5XZUDQSZG1fldl",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.493919947352342,
+        "center_signal": 1.936358218971159,
+        "high_dac": 6.502366841139917,
+        "high_resolving_power": 639.5061249958352,
+        "high_signal": 0.34222684975475154,
+        "low_dac": 6.4854730535647676,
+        "low_resolving_power": 938.5003054286657,
+        "low_signal": 0.3640378131783084,
+        "points": "QM9Tzj0ONaxAz1f4vtEsO0DPXCM95WdUQM9gTb5DEAxAz2R3vcfR4kDPaKK9OBLoQM9szDzOuuNAz3D2vqLR/kDPdSG+XUbVQM95Sz54P/9Az311vlUGMkDPgaC97bAtQM+FyryK+nNAz4n1PvLiD0DPjh8/H9ISQM+SST8WtgtAz5Z0P28GqUDPmp4/xCQ4QM+eyD+jn/5Az6LzP8K+UEDPpx0/wK09QM+rRz/XSmRAz69yP7QYTEDPs5w/gELjQM+3xj/IhKZAz7vxP5MoO0DPwBs/9EsTQM/ERT/IVfdAz8hwP8RDV0DPzJo/25ttQM/QxD++nCxAz9TvP6g+X0DP2Rk/tIU3QM/dRD+q+nxAz+FuP7m/WUDP5Zg/jRS9QM/pwz+hUNJAz+3tP8+w/0DP8hc/0Gu/QM/2Qj+oLtBAz/psP6PtyEDP/pY/yAgoQNACwT+xuX1A0AbrP66QbkDQCxU/XG/wQNAPQD97inFA0BNqPq0t3kDQF5Q8U3haQNAbvzwVUeRA0B/pPEPuu0DQJBM9sPWwQNAoPr6akZBA0CxoPSGh0kDQMJK9yrubQNA0vT3ifXNA0DjnvIr6c0DQPRK7FISIQNBBPL5o7VlA0EVmvLW0jkDQSZE/DIJG",
+        "resolution": 371.1874059254185
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
