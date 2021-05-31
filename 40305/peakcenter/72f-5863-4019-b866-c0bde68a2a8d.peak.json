@@ -1,0 +1,30 @@
+{
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QM9Vh7V+V2VAz1mytX5XZUDPXdy1fldlQM9iBrV+V2VAz2YxtX5XZUDPalu1fldlQM9uhbV+V2VAz3KwtX5XZUDPdtq1fldlQM97BDooZtxAz38vtX5XZUDPg1m1fldlQM+Hg7V+V2VAz4uutX5XZUDPj9g6KGbcQM+UAzooZtxAz5gttX5XZUDPnFe1fldlQM+ggjqohqhAz6SsOihm3EDPqNa1fldlQM+tATooZtxAz7ErOqiGqEDPtVU7UsAvQM+5gDooZtxAz72qOqiGqEDPwdQ6/NnkQM/F/zr82eRAz8opOqiGqEDPzlM6/NnkQM/SfrV+V2VAz9aoOvzZ5EDP2tI6/NnkQM/e/TqohqhAz+MnOqiGqEDP51E6qIaoQM/rfDsolpBAz++mOihm3EDP89E6KGbcQM/3+zuTibhAz/wlOihm3EDQAFA7fOnPQNAEerV+V2VA0AikOqiGqEDQDM86KGbcQNAQ+TooZtxA0BUjtX5XZUDQGU46KGbcQNAdeDooZtxA0CGitX5XZUDQJc21fldlQNAp97V+V2VA0C4htX5XZUDQMky1fldlQNA2drV+V2VA0DqgtX5XZUDQPsu1fldlQNBC9bV+V2VA0EcgtX5XZUDQS0q1fldl",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 6.501675458374386,
+        "center_signal": 1.2982171626666985,
+        "high_dac": 6.5032385846268905,
+        "high_resolving_power": 2457.989434642493,
+        "high_signal": 0.21340032472997036,
+        "low_dac": 6.500112332121881,
+        "low_resolving_power": 446.2955996871603,
+        "low_signal": 0.25337101560276615,
+        "points": "QM9Vhz2feo1Az1myvdlMMkDPXdy+DS0eQM9iBr3B/nBAz2YxvdlMMkDPals8oB3nQM9uhT2IK8NAz3KwvwNHaEDPdtq+YSkCQM97BD4noiRAz38vPkmgp0DPg1k9zCcXQM+Hgz6R+vBAz4uuPZuYFUDPj9g+iIJvQM+UAz8jlgBAz5gtPpI5G0DPnFc/VA32QM+ggj8FV+FAz6SsPzqLKUDPqNY+wJudQM+tAT6sc1pAz7ErPrS1K0DPtVU+7BUOQM+5gD8/pUVAz72qPxkj6UDPwdQ/JK3aQM/F/z7F821Az8opPxpa2EDPzlM/grEDQM/Sfj66DPNAz9aoPo5Wb0DP2tI/E+roQM/e/T8Pi5NAz+MnP3A9s0DP51E/NDodQM/rfD8MoV5Az++mPwqv5kDP89E+scsdQM/3+z6Py29Az/wlPwRAD0DQAFA+E7kXQNAEej+hjwxA0AikP1yPCkDQDM8/V1WvQNAQ+T7O799A0BUjPpK1cUDQGU4+oUeKQNAdeL2Hu8BA0CGiPGrGy0DQJc081n+5QNAp9725QUNA0C4hPpiJeEDQMky9r4uAQNA2dr2E0gFA0DqgPchEmUDQPss9VhK+QNBC9T1GiPhA0EcgvhR1V0DQS0q+LbPg",
+        "resolution": 371.2303612518601
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
